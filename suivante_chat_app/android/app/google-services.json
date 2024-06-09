@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "6090418779",
+    "project_id": "suivante-chat-app",
+    "storage_bucket": "suivante-chat-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6090418779:android:3dc936aaadf836c02fed7e",
+        "android_client_info": {
+          "package_name": "com.suivantec.suivanteChatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6090418779-2b1opk1ualtgfile8v40vm3r3lvg1skh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.suivantec.suivanteChatApp",
+            "certificate_hash": "bc3dcbbbf434f650f58a229061156ffe614becd3"
+          }
+        },
+        {
+          "client_id": "6090418779-2s7d5vg5i15aind0uphklv3ne3iqbr5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtAE5Y9ZSrAXkoy0on8SAeQt2zcUwCqXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6090418779-2s7d5vg5i15aind0uphklv3ne3iqbr5b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "6090418779-2utqrsf89r4a8dqn1huel8clv6hsbhbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.suivantec.suivanteChatApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
